@@ -1,12 +1,5 @@
 {
-    "Speedtest от Ookla - Глобальный тест скорости...": "https://www.speedtest.net/ru",
-    "Тесты онлайн - узнайте, насколько хорошо вы...": "https://weekend.rambler.ru/tests/",
-    "Тесты онлайн | Online Test Pad": "https://onlinetestpad.com/ru/tests",
-    "Онлайн тесты c точным результатом от психологических...": "https://testometrika.com/tests/",
-    "Популярные онлайн тесты": "https://konstruktortestov.ru/popular",
-    "Яндекс.Интернетометр — проверка скорости интернета": "https://yandex.ru/Internet",
-    "Тест — Википедия": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B5%D1%81%D1%82",
-    "Тесты онлайн: лучшие, интересные и популярные": "https://ustaliy.ru/testi/",
-    "Интересные тесты на самые разные темы | КТО?ЧТО?ГДЕ?": "https://kto-chto-gde.ru/category/tests/",
-    "Test - Wikipedia": "https://en.wikipedia.org/wiki/Test"
+    "url1": "https://speedtest.net/ru",
+    "start_button": "\"//*[@id='container']/div/div[3]/div/div/div/div[2]/div[3]/div[1]/a/span[4]\"",
+    "url3": "https://google.com"
 }

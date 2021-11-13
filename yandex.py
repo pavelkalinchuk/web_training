@@ -20,7 +20,7 @@ try:
     time.sleep(3)
     data_json = json.dumps(data, ensure_ascii = False, indent = 4)
     #print(data_json)
-    with open("data.json", "w") as f:
+    with open("save.json", "w") as f:
         f.write(data_json)
 finally:
     wd.close()
