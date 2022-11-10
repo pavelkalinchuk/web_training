@@ -129,5 +129,5 @@ dmypy.json
 .pyre/
 
 # Other
-.DS_Store
-save.json
+/.DS_Store
+/save.json
