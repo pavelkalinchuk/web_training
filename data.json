@@ -1,5 +1,0 @@
-{
-    "url1": "https://speedtest.net/ru",
-    "start_button": "\"//*[@id='container']/div/div[3]/div/div/div/div[2]/div[3]/div[1]/a/span[4]\"",
-    "url3": "https://google.com"
-}
